@@ -1,5 +1,4 @@
 #  Face Recognition Project using Open Computer Vision(CV)
-Computer Vision Project
 
 Contributors:
 
