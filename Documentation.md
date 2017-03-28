@@ -26,6 +26,10 @@ Check the first checkbox, in the text area just below paste this line without qu
 
 7. Create a project. Then go to  Project->Project options (or Alt + P).Go to the compiler nav and check wheather it is set to "OpenCV",if not ,set it to OpenCV.
 
+# Test :
+
+Add #include<highgui.h> header file and compile, if compiled successfully then it's done.
+
 Now you are good to go with OpenCV. Happy Coding :)
 
 
